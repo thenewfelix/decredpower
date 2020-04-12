@@ -159,7 +159,7 @@ a {
   }
 
   a, .column-list li span, .column-list li li, .footer a, .footer p {
-    font-size: 0.85em;
+    font-size: 1em;
   }
 
   .logoBit {
@@ -179,7 +179,7 @@ a {
   }
 
   .column .title h3 {
-    font-size: smaller;
+    font-size: 1.15em;
   }
 
   .logoBit {
@@ -208,6 +208,6 @@ a {
   }
 
   .column .title h3 {
-    font-size: smaller;
+    font-size: 1.1em;
   }
 }
