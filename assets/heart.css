@@ -123,6 +123,14 @@ a {
   font-size: 1.4em;
 }
 
+.footer-left {
+  float: left;
+}
+
+.footer-right {
+  float: right;
+}
+
 @media (min-width: 2000px) {
   .logo-title img {
     width: 600px;
